@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+
+langchain-google-genai
+langchain-mistralai
+
+langchain-huggingface
+sentence-transformers
+
+chromadb
+
+yt-dlp
+faster-whisper
+
+streamlit
+python-dotenv
