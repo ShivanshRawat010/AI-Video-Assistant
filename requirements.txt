@@ -5,9 +5,11 @@ langchain-community
 langchain-google-genai
 langchain-mistralai
 
+
 langchain-huggingface
 sentence-transformers
 
+langchain-chroma
 chromadb
 
 yt-dlp
